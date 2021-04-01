@@ -46,6 +46,13 @@ date: 2015-12-29 20:56:36
 
 项目地址：https://github.com/zaaack/bar-timer
 
+### inker8
+> 基于 svg 的设计稿测量工具，支持复制 css 属性
+
+https://github.com/zaaack/inker
+https://github.com/inker8/sketch-plugin
+https://github.com/inker8/xd-plugin
+
 ## Electron
 
 ### ELaunch

@@ -5,7 +5,7 @@
   "scripts": {
     "clean": "hexo clean",
     "generate": "hexo clean; hexo generate",
-    "deploy": "hexo generate -d",
+    "deploy": "hexo clean; hexo generate -d",
     "server": "hexo server",
     "start": "hexo server -o",
     "theme": "git clone git@github.com:zaaack/hexo-theme-minima.git themes/hexo-theme-minima"

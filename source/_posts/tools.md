@@ -18,13 +18,11 @@ date: 2021-03-31 18:03:30
 |[sqltab](http://www.sqltabs.com/#)|免费聚合数据库客户端|
 |[deskscreen](https://github.com/pavlobu/deskreen)	|把手机/pad 等设备变成扩展屏幕|
 
-<br/>
 
 # web
 
 ## 效率
 
-<br/>
 
 |[excalidraw](https://github.com/excalidraw/excalidraw)|手写样式的流程图	|
 |--|--|
@@ -35,7 +33,6 @@ date: 2021-03-31 18:03:30
 |[asciiflow](https://asciiflow.com/)|基于文本的流程图|
 |[tool.lu](https://tool.lu/)|程序员工具箱|
 |[在线接码](https://www.google.com/search?q=%E5%9C%A8%E7%BA%BF%E6%8E%A5%E7%A0%81&oq=%E5%9C%A8%E7%BA%BF%E6%8E%A5%E7%A0%81&aqs=chrome..69i64j69i60l3j69i61j69i60j69i65l2.2429j0j1&sourceid=chrome&ie=UTF-8)|临时手机号用于注册小号|
-|||
 
 
 ## 娱乐
