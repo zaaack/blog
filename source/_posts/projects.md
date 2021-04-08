@@ -79,6 +79,14 @@ https://github.com/inker8/xd-plugin
 项目地址:  <https://github.com/zaaack/chrome-alarm>
 
 
+## vscode extension
+
+### markdown-editor
+> vscode 秒变 全功能 所见即所得 markdown 编辑器
+
+项目地址:  <https://github.com/zaaack/vscode-markdown-editor>
+
+
 ## GitHub Actions
 
 https://github.com/zaaack/glados-checkin
