@@ -8,31 +8,32 @@ date: 2021-03-31 18:03:30
 
 ## 效率
 
+| 项目                                                           | 简介                                                    |
+| -------------------------------------------------------------- | ------------------------------------------------------- |
 | [utools](https://u.tools/)                                        | 启动器，Alfred 替代品                                   |
-| ----------------------------------------------------------------- | ------------------------------------------------------- |
 | [PxCook](https://www.fancynode.com.cn/pxcook)                     | sketch 预览工具，除此还有Sketch Measure, zeplin,蓝湖... |
-| httppie                                                           | http client 命令行工具                                  |
+| httppie                                                        | http client 命令行工具                                  |
 | [softmaker-office](https://www.softmaker.com/en/softmaker-office) | mac上启动最快的 office 套件                             |
-| LICEcap                                                           | mac 上压缩率最高的gif录屏软件                           |
-| 稻壳阅读器                                                        | 高性能 pdf/epub 阅读器                                  |
-| magicanrest                                                       | 定时锁屏休息                                            |
-| 坚果云网盘                                                        | 文件同步                                                |
+| LICEcap                                                        | mac 上压缩率最高的gif录屏软件                           |
+| 稻壳阅读器                                                     | 高性能 pdf/epub 阅读器                                  |
+| magicanrest                                                    | 定时锁屏休息                                            |
+| 坚果云网盘                                                     | 文件同步                                                |
 | [sqltab](http://www.sqltabs.com/#)                                | 免费聚合数据库客户端                                    |
 | [deskscreen](https://github.com/pavlobu/deskreen)                 | 把手机/pad 等设备变成扩展屏幕                           |
 
 # Android
 
-| Postern | 代理切换  |
-|---|---|
-|   |   |
-
+| 项目    | 简介     |
+| ------- | -------- |
+| Postern | 代理切换 |
 
 # web
 
 ## 效率
 
+| 项目                                                                                                                                                                                                  | 简介                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | [excalidraw](https://github.com/excalidraw/excalidraw)                                                                                                                                                   | 手写样式的流程图        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | [perfect-freehand](https://github.com/steveruizok/perfect-freehand)                                                                                                                                      | 毛笔画图                |
 | [draw.io](https://draw.io)                                                                                                                                                                               | 在线流程图              |
 | [figma](https://www.figma.com/)                                                                                                                                                                          | 在线原型图, 可以导出svg |
@@ -43,8 +44,9 @@ date: 2021-03-31 18:03:30
 
 ## 娱乐
 
+| 项目                                                                            | 简介                                 |
+| ------------------------------------------------------------------------------- | ------------------------------------ |
 | [vip视频解析](https://www.sayloving.com/movie.html)                                |                                      |
-| ---------------------------------------------------------------------------------- | ------------------------------------ |
 | [网盘聚合搜索](http://hao.misiai.com/#/)                                           |                                      |
 | [v视频下载](http://v.ranks.xin/)                                                   |                                      |
 | [downsub](https://downsub.com/)                                                    | 下载YouTube字幕                      |
@@ -53,5 +55,5 @@ date: 2021-03-31 18:03:30
 | [https://bitdownloader.com/en2](https://bitdownloader.com/en2)                     | 同上                                 |
 | [http://www.clipconverter.cc/](http://www.clipconverter.cc/) (                     | 同上                                 |
 | [http://fetchvideo.com/](http://fetchvideo.com/) (正常)                            | 同上                                 |
-| mkvtoolnix                                                                         | 最快的字幕封装工具，将字幕导入到视频 |
-|                                                                                    |                                      |
+| mkvtoolnix                                                                      | 最快的字幕封装工具，将字幕导入到视频 |
+|                                                                                 |                                      |
