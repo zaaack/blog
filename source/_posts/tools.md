@@ -20,6 +20,13 @@ date: 2021-03-31 18:03:30
 | [sqltab](http://www.sqltabs.com/#)                                | 免费聚合数据库客户端                                    |
 | [deskscreen](https://github.com/pavlobu/deskreen)                 | 把手机/pad 等设备变成扩展屏幕                           |
 
+# Android
+
+| Postern | 代理切换  |
+|---|---|
+|   |   |
+
+
 # web
 
 ## 效率

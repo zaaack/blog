@@ -1,7 +1,7 @@
 name: my-actions
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
     paths-ignore:
       - 'README.md'
 jobs:
@@ -16,4 +16,11 @@ jobs:
       - name: install
         run: yarn
       - name: deploy
-        run: yarn deploy
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh/
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          yarn deploy

@@ -83,6 +83,8 @@ deploy:
 - type: git
   repo: git@github.com:zaaack/zaaack.github.io.git
   branch: master
+  name: zaaack(bot)
+  email: zaaack@qq.com
 
 # markdown-it-plugin
 markdown:
