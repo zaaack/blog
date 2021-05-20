@@ -1,12 +1,12 @@
 title: 我的github项目列表
 permalink: projects/
 date: 2015-12-29 20:56:36
----
-
+-------------------------
 
 ## Node
 
 ### foy
+
 > 基于 nodejs/typescript 的任务构建工具，支持 async/await, 内置 fs(enhanced)/execa/logger 等脚本常用库
 
 项目地址： https://github.com/zaaack/foy
@@ -18,13 +18,14 @@ date: 2015-12-29 20:56:36
 项目地址：https://github.com/zaaack/scp-sync
 
 ### node-proxy-dev
+
 > 专门用于前端开发的代理服务器，可以修改html页面，替换静态文件
 
-项目地址： <https://github.com/zaaack/node-proxy-dev>
+项目地址： [https://github.com/zaaack/node-proxy-dev](https://github.com/zaaack/node-proxy-dev)
 
 ### statical-ghost
-> 基于node，使用ghost主题的静态博客生成器。
 
+> 基于node，使用ghost主题的静态博客生成器。
 
 项目地址： https://github.com/zaaack/statical-ghost
 
@@ -47,6 +48,7 @@ date: 2015-12-29 20:56:36
 项目地址：https://github.com/zaaack/bar-timer
 
 ### inker8
+
 > 基于 svg 的设计稿测量工具，支持复制 css 属性
 
 https://github.com/zaaack/inker
@@ -56,36 +58,38 @@ https://github.com/inker8/xd-plugin
 ## Electron
 
 ### ELaunch
->基于electron的类似与alfred的桌面快速启动器，支持linux和macOS，内置应用启动，文件搜索，执行shell，打开终端，快捷搜索，有道翻译，计算器等功能，还支持自定义第三方插件实现更多功能，比如 [elaunch-plugin-devdocs](https://github.com/zaaack/elaunch-plugin-devdocs) （快速查找开发文档）..
 
-项目地址: <https://github.com/zaaack/ELaunch>
+> 基于electron的类似与alfred的桌面快速启动器，支持linux和macOS，内置应用启动，文件搜索，执行shell，打开终端，快捷搜索，有道翻译，计算器等功能，还支持自定义第三方插件实现更多功能，比如 [elaunch-plugin-devdocs](https://github.com/zaaack/elaunch-plugin-devdocs) （快速查找开发文档）..
+
+项目地址: [https://github.com/zaaack/ELaunch](https://github.com/zaaack/ELaunch)
 
 ## Chrome
 
 ### chrome-timer
->chrome 定时器，可以定时提醒。
 
-项目地址:  <https://github.com/zaaack/chrome-timer>
+> chrome 定时器，可以定时提醒。
+
+项目地址:  [https://github.com/zaaack/chrome-timer](https://github.com/zaaack/chrome-timer)
 
 ### chrome-weibo
->以popup窗口打开微博移动版，更加简洁，以及右键分享网页到微博
 
-项目地址:  <https://github.com/zaaack/chrome-weibo>
+> 以popup窗口打开微博移动版，更加简洁，以及右键分享网页到微博
 
+项目地址:  [https://github.com/zaaack/chrome-weibo](https://github.com/zaaack/chrome-weibo)
 
 ### chrome-alarm
+
 > 整点报时工具，支持循环报时和定时报时
 
-项目地址:  <https://github.com/zaaack/chrome-alarm>
-
+项目地址:  [https://github.com/zaaack/chrome-alarm](https://github.com/zaaack/chrome-alarm)
 
 ## vscode extension
 
 ### markdown-editor
+
 > vscode 秒变 全功能 所见即所得 markdown 编辑器
 
-项目地址:  <https://github.com/zaaack/vscode-markdown-editor>
-
+项目地址:  [https://github.com/zaaack/vscode-markdown-editor](https://github.com/zaaack/vscode-markdown-editor)
 
 ## GitHub Actions
 

@@ -1,6 +1,7 @@
 # My Blog
 
-Auto deploy to https://zaaack.github.io via Github Actions.
+Auto deploy to [https://zaaack.github.io](https://zaaack.github.io) via Github Actions.
+
 
 
 ## How to deploy hexo site to Github Pages via Github Actions
