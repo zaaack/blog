@@ -55,6 +55,8 @@ date: 2021-03-31 18:03:30
 | [poshover](https://pushover.net/)                                 | 推送服务                                 |
 | 微信绑定qq邮箱发邮件                                              | 同上                                     |
 | Server 酱/喵提醒/Telegram 订阅/钉钉机器人 /PushPlus/gotify/ddpush | 同上                                     |
+| [https://www.planetscale.com/](https://www.planetscale.com/)      | 免费云数据库，支持mysql 连接             |
+| [vercel](https://vercel.com/)/[netlify](https://www.netlify.com/) | 云服务serverless                         |
 
 ## 娱乐
 
