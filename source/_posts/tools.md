@@ -9,19 +9,20 @@ date: 2021-03-31 18:03:30
 ## 效率
 
 
-| 项目                                                              |                          简介                          |
-| ------------------------------------------------------------------- | :-------------------------------------------------------: |
-| [utools](https://u.tools/)                                        |                  启动器，Alfred 替代品                  |
+| 项目                                                              | 简介                                                    |
+| ------------------------------------------------------------------- | :-------------------------------------------------------- |
+| [utools](https://u.tools/)                                        | 启动器，Alfred 替代品                                   |
 | [PxCook](https://www.fancynode.com.cn/pxcook)                     | sketch 预览工具，除此还有Sketch Measure, zeplin,蓝湖... |
-| httppie                                                           |                 http client 命令行工具                 |
-| [softmaker-office](https://www.softmaker.com/en/softmaker-office) |               mac上启动最快的 office 套件               |
-| LICEcap                                                           |              mac 上压缩率最高的gif录屏软件              |
-| 稻壳阅读器                                                        |                 高性能 pdf/epub 阅读器                 |
-| magicanrest                                                       |                      定时锁屏休息                      |
-| 坚果云网盘                                                        |                        文件同步                        |
-| [sqltab](http://www.sqltabs.com/#)                                |                  免费聚合数据库客户端                  |
-| [deskscreen](https://github.com/pavlobu/deskreen)                 |          把手机/pad 等设备变成扩展屏幕(跨平台)          |
-| [espanso](https://espanso.org/)                                   |   跨平台的系统全局snippets，文本快捷输入，支持 emoji   |
+| httppie                                                           | http client 命令行工具                                  |
+| [softmaker-office](https://www.softmaker.com/en/softmaker-office) | mac上启动最快的 office 套件                             |
+| LICEcap                                                           | mac 上压缩率最高的gif录屏软件                           |
+| 稻壳阅读器                                                        | 高性能 pdf/epub 阅读器                                  |
+| magicanrest                                                       | 定时锁屏休息                                            |
+| 坚果云网盘                                                        | 文件同步                                                |
+| [sqltab](http://www.sqltabs.com/#)                                | 免费聚合数据库客户端                                    |
+| [deskscreen](https://github.com/pavlobu/deskreen)                 | 把手机/pad 等设备变成扩展屏幕(跨平台)                   |
+| [espanso](https://espanso.org/)                                   | 跨平台的系统全局snippets，文本快捷输入，支持 emoji      |
+|                                                                   |                                                         |
 
 # Android
 
@@ -45,6 +46,15 @@ date: 2021-03-31 18:03:30
 | [asciiflow](https://asciiflow.com/)                                                                                                                                                                      | 基于文本的流程图        |
 | [tool.lu](https://tool.lu/)                                                                                                                                                                              | 程序员工具箱            |
 | [在线接码](https://www.google.com/search?q=%E5%9C%A8%E7%BA%BF%E6%8E%A5%E7%A0%81&oq=%E5%9C%A8%E7%BA%BF%E6%8E%A5%E7%A0%81&aqs=chrome..69i64j69i60l3j69i61j69i60j69i65l2.2429j0j1&sourceid=chrome&ie=UTF-8) | 临时手机号用于注册小号  |
+
+## 资源
+
+
+| 项目                                     | 简介           |
+| ------------------------------------------ | ---------------- |
+| [bookzz](https://www.bookzz.ren/)        | 电子书下载     |
+| [bookrix](https://www.bookrix.de/)       | 电子书下载     |
+| [z-library](https://zh.singlelogin.org/) | zlibrary电子书 |
 
 ## 开发
 
