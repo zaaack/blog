@@ -24,6 +24,14 @@ date: 2021-03-31 18:03:30
 | [espanso](https://espanso.org/)                                   | 跨平台的系统全局snippets，文本快捷输入，支持 emoji      |
 |                                                                   |                                                         |
 
+# 跨平台
+
+
+| 项目                 | 简介                             |
+| ---------------------- | ---------------------------------- |
+| local-cors-proxy/npm | 本地反向代理服务添加 cors header |
+|                      |                                  |
+
 # Android
 
 
@@ -59,14 +67,14 @@ date: 2021-03-31 18:03:30
 ## 开发
 
 
-| 项目                                                              | 简介                                     |
-| ------------------------------------------------------------------- | ------------------------------------------ |
-| [gitpod.io](https://gitpod.io)                                    | 在线开发环境, db/IDE/shell 等 (开源免费) |
-| [poshover](https://pushover.net/)                                 | 推送服务                                 |
-| 微信绑定qq邮箱发邮件                                              | 同上                                     |
-| Server 酱/喵提醒/Telegram 订阅/钉钉机器人 /PushPlus/gotify/ddpush | 同上                                     |
-| [https://www.planetscale.com/](https://www.planetscale.com/)      | 免费云数据库，支持mysql 连接             |
-| [vercel](https://vercel.com/)/[netlify](https://www.netlify.com/) | 云服务serverless                         |
+| 项目                                                                                                                      | 简介                                     |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [gitpod.io](https://gitpod.io)                                                                                            | 在线开发环境, db/IDE/shell 等 (开源免费) |
+| [poshover](https://pushover.net/)                                                                                         | 推送服务                                 |
+| 微信绑定qq邮箱发邮件                                                                                                      | 同上                                     |
+| Server 酱/喵提醒/Telegram 订阅/钉钉机器人 /PushPlus/gotify/ddpush                                                         | 同上                                     |
+| [vercel](https://vercel.com/)/[netlify](https://www.netlify.com/) | 云服务serverless
+| [小米球](http://xiaomiqiu.cn/) [钉钉内网穿透](https://github.com/open-dingtalk/pierced) [nat123](http://www.nat123.com/)  | 内网穿透                                 |
 
 ## 娱乐
 
@@ -83,4 +91,5 @@ date: 2021-03-31 18:03:30
 | [http://www.clipconverter.cc/](http://www.clipconverter.cc/) (                     | 同上                                 |
 | [http://fetchvideo.com/](http://fetchvideo.com/) (正常)                            | 同上                                 |
 | mkvtoolnix                                                                         | 最快的字幕封装工具，将字幕导入到视频 |
+| [ZY-Player](https://github.com/cuiocean/ZY-Player)                                 | 全网视频客户端                       |
 |                                                                                    |                                      |
