@@ -5,8 +5,6 @@ date: 2021-04-08 14:21:04
 
 ---
 
-# vscode 秒变 全功能 所见即所得 markdown 编辑器
-
 最近写了一些  markdown， 在 vscode 上感觉一般的纯文本文档写起来还是比较舒服的，但是如果有表格编辑起来就比较麻烦了，排版很困难，于是想起了最近很多基于 electron/nwjs 的所见即所得的 markdown 编辑器，比如 typora, marktext 等等, 如果在 vscode 中实现类似功能编辑起来就很方便了。
 
 于是便写了这个插件:
