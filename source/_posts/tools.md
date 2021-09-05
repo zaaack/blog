@@ -24,13 +24,21 @@ date: 2021-03-31 18:03:30
 | [espanso](https://espanso.org/)                                   | 跨平台的系统全局snippets，文本快捷输入，支持 emoji      |
 |                                                                   |                                                         |
 
+# win10
+
+
+| 项目                               | 简介                    |
+| ------------------------------------ | ------------------------- |
+| [lunacy](https://icons8.cn/lunacy) | win10打开编辑sketch文件 |
+|                                    |                         |
+
 # 跨平台
 
 
 | 项目                 | 简介                             |
 | ---------------------- | ---------------------------------- |
 | local-cors-proxy/npm | 本地反向代理服务添加 cors header |
-|                      |                                  |
+| caddy                | go版 反向代理服务器              |
 
 # Android
 
@@ -44,16 +52,18 @@ date: 2021-03-31 18:03:30
 ## 效率
 
 
-| 项目                                                                                                                                                                                                     | 简介                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [excalidraw](https://github.com/excalidraw/excalidraw)                                                                                                                                                   | 手写样式的流程图        |
-| [perfect-freehand](https://github.com/steveruizok/perfect-freehand)                                                                                                                                      | 毛笔画图                |
-| [draw.io](https://draw.io)                                                                                                                                                                               | 在线流程图              |
-| [figma](https://www.figma.com/)                                                                                                                                                                          | 在线原型图, 可以导出svg |
-| [alternativeto.com](http://alternativeto.com/)                                                                                                                                                           | 替代品查找网站          |
-| [asciiflow](https://asciiflow.com/)                                                                                                                                                                      | 基于文本的流程图        |
-| [tool.lu](https://tool.lu/)                                                                                                                                                                              | 程序员工具箱            |
-| [在线接码](https://www.google.com/search?q=%E5%9C%A8%E7%BA%BF%E6%8E%A5%E7%A0%81&oq=%E5%9C%A8%E7%BA%BF%E6%8E%A5%E7%A0%81&aqs=chrome..69i64j69i60l3j69i61j69i60j69i65l2.2429j0j1&sourceid=chrome&ie=UTF-8) | 临时手机号用于注册小号  |
+| 项目                                                                                                                                                                                                     | 简介                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [excalidraw](https://github.com/excalidraw/excalidraw)                                                                                                                                                   | 手写样式的流程图                           |
+| [perfect-freehand](https://github.com/steveruizok/perfect-freehand)                                                                                                                                      | 毛笔画图                                   |
+| [draw.io](https://draw.io)                                                                                                                                                                               | 在线流程图                                 |
+| [figma](https://www.figma.com/)                                                                                                                                                                          | 在线原型图, 可以导出svg                    |
+| [alternativeto.com](http://alternativeto.com/)                                                                                                                                                           | 替代品查找网站                             |
+| [asciiflow](https://asciiflow.com/)                                                                                                                                                                      | 基于文本的流程图                           |
+| [tool.lu](https://tool.lu/)                                                                                                                                                                              | 程序员工具箱                               |
+| [在线接码](https://www.google.com/search?q=%E5%9C%A8%E7%BA%BF%E6%8E%A5%E7%A0%81&oq=%E5%9C%A8%E7%BA%BF%E6%8E%A5%E7%A0%81&aqs=chrome..69i64j69i60l3j69i61j69i60j69i65l2.2429j0j1&sourceid=chrome&ie=UTF-8) | 临时手机号用于注册小号                     |
+| [photopea](https://www.photopea.com/)                                                                                                                                                                    | 在线ps, 支持导入 sketch 预览，不过只能看图 |
+| [tailscale.com](tailscale.com)                                                                                                                                                                           | 免费vpn组网，支持远程访问内网机器          |
 
 ## 资源
 
@@ -67,14 +77,14 @@ date: 2021-03-31 18:03:30
 ## 开发
 
 
-| 项目                                                                                                                      | 简介                                     |
-| --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| [gitpod.io](https://gitpod.io)                                                                                            | 在线开发环境, db/IDE/shell 等 (开源免费) |
-| [poshover](https://pushover.net/)                                                                                         | 推送服务                                 |
-| 微信绑定qq邮箱发邮件                                                                                                      | 同上                                     |
-| Server 酱/喵提醒/Telegram 订阅/钉钉机器人 /PushPlus/gotify/ddpush                                                         | 同上                                     |
-| [vercel](https://vercel.com/)/[netlify](https://www.netlify.com/) | 云服务serverless
-| [小米球](http://xiaomiqiu.cn/) [钉钉内网穿透](https://github.com/open-dingtalk/pierced) [nat123](http://www.nat123.com/)  | 内网穿透                                 |
+| 项目                                                                                                                     | 简介                                     |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| [gitpod.io](https://gitpod.io)                                                                                           | 在线开发环境, db/IDE/shell 等 (开源免费) |
+| [poshover](https://pushover.net/)                                                                                        | 推送服务                                 |
+| 微信绑定qq邮箱发邮件                                                                                                     | 同上                                     |
+| Server 酱/喵提醒/Telegram 订阅/钉钉机器人 /PushPlus/gotify/ddpush                                                        | 同上                                     |
+| [vercel](https://vercel.com/)/[netlify](https://www.netlify.com/)                                                        | 云服务serverless                         |
+| [小米球](http://xiaomiqiu.cn/) [钉钉内网穿透](https://github.com/open-dingtalk/pierced) [nat123](http://www.nat123.com/) | 内网穿透                                 |
 
 ## 娱乐
 
