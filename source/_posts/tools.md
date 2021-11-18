@@ -24,13 +24,16 @@ date: 2021-03-31 18:03:30
 | [espanso](https://espanso.org/)                                   | 跨平台的系统全局snippets，文本快捷输入，支持 emoji      |
 |                                                                   |                                                         |
 
-# win10
+# win10/11
 
 
-| 项目                               | 简介                    |
-| ------------------------------------ | ------------------------- |
-| [lunacy](https://icons8.cn/lunacy) | win10打开编辑sketch文件 |
-|                                    |                         |
+| 项目                                                       | 简介                    |
+| ------------------------------------------------------------ | ------------------------- |
+| [lunacy](https://icons8.cn/lunacy)                         | win10打开编辑sketch文件 |
+| [WSLHostPatcher](https://github.com/CzBiX/WSLHostPatcher/) | wsl2 服务在局域网可访问 |
+| openhardware/coretemp                                      | cpu温度监控             |
+| [mouseinc](https://shuax.com/project/mouseinc/)            | 鼠标手势+触发角         |
+| [stretchly](https://github.com/hovancik/stretchly)         | 20分钟锁屏休息20s       |
 
 # 跨平台
 
