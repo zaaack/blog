@@ -22,7 +22,7 @@ date: 2021-03-31 18:03:30
 | [sqltab](http://www.sqltabs.com/#)                                | 免费聚合数据库客户端                                    |
 | [deskscreen](https://github.com/pavlobu/deskreen)                 | 把手机/pad 等设备变成扩展屏幕(跨平台)                   |
 | [espanso](https://espanso.org/)                                   | 跨平台的系统全局snippets，文本快捷输入，支持 emoji      |
-|                                                                   |                                                         |
+| [tinycal](https://macwk.com/soft/tinycal) 小历日历                |                                                         |
 
 # win10/11
 
@@ -42,6 +42,7 @@ date: 2021-03-31 18:03:30
 | ---------------------- | ---------------------------------- |
 | local-cors-proxy/npm | 本地反向代理服务添加 cors header |
 | caddy                | go版 反向代理服务器              |
+| NeatDownloadManager  | 多线程下载工具                   |
 
 # Android
 
@@ -88,6 +89,8 @@ date: 2021-03-31 18:03:30
 | Server 酱/喵提醒/Telegram 订阅/钉钉机器人 /PushPlus/gotify/ddpush                                                        | 同上                                     |
 | [vercel](https://vercel.com/)/[netlify](https://www.netlify.com/)                                                        | 云服务serverless                         |
 | [小米球](http://xiaomiqiu.cn/) [钉钉内网穿透](https://github.com/open-dingtalk/pierced) [nat123](http://www.nat123.com/) | 内网穿透                                 |
+| [ghproxy](https://ghproxy.com/)/[toolwa](http://toolwa.com/github/)                                                      | github下载加速                           |
+| [zellij](https://github.com/zellij-org/zellij)                                                                           | tmux 替代品，界面更友好，对鼠标支持更好  |
 
 ## 娱乐
 
