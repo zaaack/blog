@@ -43,6 +43,8 @@ date: 2021-03-31 18:03:30
 | local-cors-proxy/npm | 本地反向代理服务添加 cors header |
 | caddy                | go版 反向代理服务器              |
 | NeatDownloadManager  | 多线程下载工具                   |
+| xdown                | bt下载工具                       |
+| spacedesk            | 屏幕扩展                         |
 
 # Android
 
