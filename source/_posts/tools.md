@@ -27,13 +27,13 @@ date: 2021-03-31 18:03:30
 # win10/11
 
 
-| 项目                                                       | 简介                    |
-| ------------------------------------------------------------ | ------------------------- |
-| [lunacy](https://icons8.cn/lunacy)                         | win10打开编辑sketch文件 |
-| [WSLHostPatcher](https://github.com/CzBiX/WSLHostPatcher/) | wsl2 服务在局域网可访问 |
-| [openhardware](https://github.com/openhardwaremonitor/openhardwaremonitor)/[coretemp](http://www.alcpu.com/CoreTemp/)                                      | cpu温度监控             |
-| [mouseinc](https://shuax.com/project/mouseinc/)            | 鼠标手势+触发角         |
-| [stretchly](https://github.com/hovancik/stretchly)         | 20分钟锁屏休息20s       |
+| 项目                                                                                                                  | 简介                    |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [lunacy](https://icons8.cn/lunacy)                                                                                    | win10打开编辑sketch文件 |
+| [WSLHostPatcher](https://github.com/CzBiX/WSLHostPatcher/)                                                            | wsl2 服务在局域网可访问 |
+| [openhardware](https://github.com/openhardwaremonitor/openhardwaremonitor)/[coretemp](http://www.alcpu.com/CoreTemp/) | cpu温度监控             |
+| [mouseinc](https://shuax.com/project/mouseinc/)                                                                       | 鼠标手势+触发角         |
+| [stretchly](https://github.com/hovancik/stretchly)                                                                    | 20分钟锁屏休息20s       |
 
 # 跨平台
 
@@ -68,6 +68,7 @@ date: 2021-03-31 18:03:30
 | [在线接码](https://www.google.com/search?q=%E5%9C%A8%E7%BA%BF%E6%8E%A5%E7%A0%81&oq=%E5%9C%A8%E7%BA%BF%E6%8E%A5%E7%A0%81&aqs=chrome..69i64j69i60l3j69i61j69i60j69i65l2.2429j0j1&sourceid=chrome&ie=UTF-8) | 临时手机号用于注册小号                     |
 | [photopea](https://www.photopea.com/)                                                                                                                                                                    | 在线ps, 支持导入 sketch 预览，不过只能看图 |
 | [tailscale.com](tailscale.com)                                                                                                                                                                           | 免费vpn组网，支持远程访问内网机器          |
+| [ss](./ss)                                                                                                                                                                                               | 机场推荐                                   |
 
 ## 资源
 
