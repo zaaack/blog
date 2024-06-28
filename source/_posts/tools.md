@@ -27,13 +27,24 @@ date: 2021-03-31 18:03:30
 # win10/11
 
 
-| 项目                                                                                                                  | 简介                    |
-| ----------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [lunacy](https://icons8.cn/lunacy)                                                                                    | win10打开编辑sketch文件 |
-| [WSLHostPatcher](https://github.com/CzBiX/WSLHostPatcher/)                                                            | wsl2 服务在局域网可访问 |
-| [openhardware](https://github.com/openhardwaremonitor/openhardwaremonitor)/[coretemp](http://www.alcpu.com/CoreTemp/) | cpu温度监控             |
-| [mouseinc](https://shuax.com/project/mouseinc/)                                                                       | 鼠标手势+触发角         |
-| [stretchly](https://github.com/hovancik/stretchly)                                                                    | 20分钟锁屏休息20s       |
+| 项目                                                                                                                  | 简介                     |
+| :---------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [lunacy](https://icons8.cn/lunacy)                                                                                    | win10打开编辑sketch文件  |
+| [WSLHostPatcher](https://github.com/CzBiX/WSLHostPatcher/)                                                            | wsl2 服务在局域网可访问  |
+| [openhardware](https://github.com/openhardwaremonitor/openhardwaremonitor)/[coretemp](http://www.alcpu.com/CoreTemp/) | cpu温度监控              |
+| [mouseinc](https://shuax.com/project/mouseinc/)                                                                       | 鼠标手势+触发角          |
+| [stretchly](https://github.com/hovancik/stretchly)                                                                    | 20分钟锁屏休息20s        |
+| [Monitorian](https://github.com/emoacht/Monitorian)                                                                   | 外接显示器亮度修改       |
+| [macast](https://github.com/xfangfang/Macast)                                                                         | dlina流媒体投屏接收软件  |
+| RevokeMsgPatcher.v1.7                                                                                                 | qq/微信防撤回            |
+| TrafficMonitor                                                                                                        | 流量监控                 |
+| 猫影绿色免安装1.0.7_fix2                                                                                              |                          |
+| ProjectEye                                                                                                            | 护眼提醒                 |
+| wsa工具箱                                                                                                             | wsa安卓工具箱            |
+| Clash (设置里的LoopbackManager)                                                                                       | 代理(uwp应用设置)        |
+| ScreenToGif                                                                                                           | 高压缩最小的 gif录屏软件 |
+| xdown                                                                                                                 | 下载器                   |
+|                                                                                                                       |                          |
 
 # 跨平台
 
