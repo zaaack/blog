@@ -44,6 +44,10 @@ date: 2021-03-31 18:03:30
 | Clash (设置里的LoopbackManager)                                                                                       | 代理(uwp应用设置)        |
 | ScreenToGif                                                                                                           | 高压缩最小的 gif录屏软件 |
 | xdown                                                                                                                 | 下载器                   |
+| zyplayer                                                                                                              | 影视                     |
+| geek uninstaller                                                                                                      |                          |
+|                                                                                                                       |                          |
+|                                                                                                                       |                          |
 |                                                                                                                       |                          |
 
 # 跨平台
